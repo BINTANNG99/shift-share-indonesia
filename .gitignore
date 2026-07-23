@@ -1,0 +1,16 @@
+# Dataset
+*.csv
+*.xlsx
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Sistem dan editor
+.DS_Store
+Thumbs.db
+.vscode/
+
