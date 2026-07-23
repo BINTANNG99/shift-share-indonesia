@@ -1,10 +1,10 @@
-# Analisis Shift-Share Ekonomi Regional Indonesia 2020–2024
+# Analisis Shift-Share Ekonomi Regional Indonesia 2020-2024
 
 Proyek ini menganalisis dinamika pertumbuhan ekonomi regional Indonesia tahun 2020–2024 menggunakan metode Shift-Share berbasis Python.
 
 ## Status
 
-**FINISHED** — pemrosesan data, perhitungan komponen Shift-Share, dan visualisasi telah tersedia dalam notebook.
+**FINISHED**: pemrosesan data, perhitungan komponen Shift-Share, dan visualisasi telah tersedia dalam notebook.
 
 ## Komponen Analisis
 
